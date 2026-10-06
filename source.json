@@ -1,0 +1,26 @@
+{
+  "name": "이적시장 분석",
+  "identifier": "kr.satto.fcmarket.source",
+  "sourceURL": "https://raw.githubusercontent.com/sattosatto111/fc-market-download/main/source.json",
+  "apps": [
+    {
+      "name": "이적시장 분석",
+      "bundleIdentifier": "kr.satto.fcmarket",
+      "developerName": "satto",
+      "subtitle": "FC온라인 이적시장 시세 분석",
+      "localizedDescription": "FC온라인 선수 기준가 조회·기록·판정, 관심목록, 스쿼드 메이커, 스탯 비교, 계산기, 구단주 정보.",
+      "iconURL": "https://raw.githubusercontent.com/sattosatto111/fc-market-download/main/icon.png",
+      "tintColor": "7c0d1d",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "date": "2026-10-06",
+          "downloadURL": "https://github.com/sattosatto111/fc-market-download/releases/latest/download/fc_market.ipa",
+          "size": 1283279,
+          "localizedDescription": "첫 배포"
+        }
+      ]
+    }
+  ]
+}
