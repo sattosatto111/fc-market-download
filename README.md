@@ -1,4 +1,11 @@
-# 이적시장 분석 앱 설치 안내
+# 이적시장 분석 설치 안내
+
+FC온라인 선수 기준가 조회·기록·판정, 관심목록, 스쿼드 메이커, 스탯 비교, 계산기, 구단주 정보. PC·갤럭시·아이폰용이 있다.
+
+## PC (Windows)
+1. [fc_market.exe](https://github.com/sattosatto111/fc-market-download/releases/latest/download/fc_market.exe) 를 받아 아무 폴더에 두고 실행한다. 설치 과정 없이 바로 창이 뜬다.
+2. Windows가 "알 수 없는 게시자" 경고를 띄우면 '추가 정보 → 실행'.
+3. 기록 파일(prices.db 등)은 exe 옆에 생긴다. 엣지 브라우저가 있어야 한다(윈도우 기본 포함). 창을 닫아도 트레이에 남아 가격 알림을 보내며, 완전히 끄려면 트레이 아이콘에서 종료.
 
 ## 갤럭시 (안드로이드)
 1. 폰에서 [fc_market.apk](https://github.com/sattosatto111/fc-market-download/releases/latest/download/fc_market.apk) 를 받는다.
